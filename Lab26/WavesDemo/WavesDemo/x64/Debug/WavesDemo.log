@@ -1,0 +1,31 @@
+﻿  compilation object save succeeded; see C:\ProjetosProgramacao\ProgramacaoDeJogos\Lab26\WavesDemo\WavesDemo\Shaders\Pixel.cso
+  compilation object save succeeded; see C:\ProjetosProgramacao\ProgramacaoDeJogos\Lab26\WavesDemo\WavesDemo\Shaders\Vertex.cso
+  Animation.cpp
+  Audio.cpp
+  Background.cpp
+  Controller.cpp
+  Wave.cpp
+  Engine.cpp
+  Font.cpp
+  Game.cpp
+  Geometry.cpp
+  WallHit.cpp
+  WavesDemo.cpp
+  Graphics.cpp
+  Hud.cpp
+  Image.cpp
+  Missile.cpp
+  Object.cpp
+  Orange.cpp
+  Particles.cpp
+  Player.cpp
+  Renderer.cpp
+  Scene.cpp
+  Sound.cpp
+  Sprite.cpp
+  Texture.cpp
+  TileSet.cpp
+  Timer.cpp
+  Vector.cpp
+  Window.cpp
+  WavesDemo.vcxproj -> C:\ProjetosProgramacao\ProgramacaoDeJogos\Lab26\WavesDemo\x64\Debug\WavesDemo.exe

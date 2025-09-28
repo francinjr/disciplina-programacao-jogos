@@ -1,0 +1,42 @@
+/**********************************************************************************
+// Platform (Arquivo de Cabeçalho)
+// 
+// Criação:     21 Abr 2012
+// Atualização: 08 Jun 2025
+// Compilador:  Visual C++ 2022
+//
+// Descrição:   Plataformas do jogo
+//
+**********************************************************************************/
+
+#ifndef _PLATFORMER_PLATFORM_H_
+#define _PLATFORMER_PLATFORM_H_
+
+// ---------------------------------------------------------------------------------
+
+#include "Types.h"                      // tipos específicos da engine
+#include "Object.h"                     // interface de Object
+#include "Sprite.h"                     // background é composto por sprites
+
+// ---------------------------------------------------------------------------------
+
+enum PLATTYPES { SMALL, MEDIUM, LARGE };
+
+// ---------------------------------------------------------------------------------
+
+class Platform : public Object
+{
+private:
+    Sprite * platform = nullptr;        // sprite da plataforma
+
+public:
+    Platform(float posX, float posY, uint platType);    
+    ~Platform();
+
+    void Update();                      // atualização do objeto
+    void Draw();                        // desenho do objeto
+}; 
+
+// ---------------------------------------------------------------------------------
+
+#endif

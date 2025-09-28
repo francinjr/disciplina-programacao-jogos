@@ -1,0 +1,15 @@
+// Gravity Guy
+// Criação:        27 Set 2021
+// Atualização:    27 Set 2021
+// Descrição:   Posição das plataformas do nível 2
+//
+//
+//  posX    posY 
+    300     100
+    650     100
+    540    200 
+    300    400
+    600    350
+    150    350     
+    100    250
+    100    150

@@ -1,0 +1,28 @@
+﻿  compilation object save succeeded; see C:\ProjetosProgramacao\ProgramacaoDeJogos\Lab18\GravityGuy\GravityGuy\Shaders\Pixel.cso
+  compilation object save succeeded; see C:\ProjetosProgramacao\ProgramacaoDeJogos\Lab18\GravityGuy\GravityGuy\Shaders\Vertex.cso
+  Animation.cpp
+  Audio.cpp
+  Background.cpp
+  Engine.cpp
+  Font.cpp
+  Game.cpp
+  GameOver.cpp
+  Geometry.cpp
+  Graphics.cpp
+  GravityGuy.cpp
+  Home.cpp
+  Image.cpp
+  Level1.cpp
+  Level2.cpp
+  Object.cpp
+  Platform.cpp
+  Player.cpp
+  Renderer.cpp
+  Scene.cpp
+  Sound.cpp
+  Sprite.cpp
+  Texture.cpp
+  TileSet.cpp
+  Timer.cpp
+  Window.cpp
+  GravityGuy.vcxproj -> C:\ProjetosProgramacao\ProgramacaoDeJogos\Lab18\GravityGuy\x64\Debug\GravityGuy.exe

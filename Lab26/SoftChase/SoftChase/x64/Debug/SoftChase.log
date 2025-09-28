@@ -1,0 +1,31 @@
+﻿  compilation object save succeeded; see C:\ProjetosProgramacao\ProgramacaoDeJogos\Lab26\SoftChase\SoftChase\Shaders\Pixel.cso
+  compilation object save succeeded; see C:\ProjetosProgramacao\ProgramacaoDeJogos\Lab26\SoftChase\SoftChase\Shaders\Vertex.cso
+  Animation.cpp
+  Audio.cpp
+  Background.cpp
+  Blue.cpp
+  SoftChase.cpp
+  Controller.cpp
+  Engine.cpp
+  Font.cpp
+  Game.cpp
+  Geometry.cpp
+  Graphics.cpp
+  Hud.cpp
+  Image.cpp
+  Missile.cpp
+  Object.cpp
+  Particles.cpp
+  Player.cpp
+  Renderer.cpp
+  Scene.cpp
+  Sound.cpp
+  Sprite.cpp
+  Texture.cpp
+  TileSet.cpp
+  Timer.cpp
+  Vector.cpp
+  WallHit.cpp
+  Wave.cpp
+  Window.cpp
+  SoftChase.vcxproj -> C:\ProjetosProgramacao\ProgramacaoDeJogos\Lab26\SoftChase\x64\Debug\SoftChase.exe

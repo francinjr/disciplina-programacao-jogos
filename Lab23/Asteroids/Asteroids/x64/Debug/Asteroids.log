@@ -1,0 +1,28 @@
+﻿  compilation object save succeeded; see C:\ProjetosProgramacao\ProgramacaoDeJogos\Lab23\Asteroids\Asteroids\Shaders\Pixel.cso
+  compilation object save succeeded; see C:\ProjetosProgramacao\ProgramacaoDeJogos\Lab23\Asteroids\Asteroids\Shaders\Vertex.cso
+  Animation.cpp
+  Audio.cpp
+  Controller.cpp
+  Debris.cpp
+  Engine.cpp
+  Explosion.cpp
+  Font.cpp
+  Game.cpp
+  Geometry.cpp
+  Graphics.cpp
+  Image.cpp
+  Asteroids.cpp
+  Missile.cpp
+  Object.cpp
+  Renderer.cpp
+  Rock.cpp
+  Scene.cpp
+  Ship.cpp
+  Sound.cpp
+  Sprite.cpp
+  Texture.cpp
+  TileSet.cpp
+  Timer.cpp
+  Vector.cpp
+  Window.cpp
+  Asteroids.vcxproj -> C:\ProjetosProgramacao\ProgramacaoDeJogos\Lab23\Asteroids\x64\Debug\Asteroids.exe

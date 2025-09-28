@@ -1,0 +1,48 @@
+# Pasta gerada pelo Visual Studio
+.vs/
+
+# Arquivos binários e intermediários
+*.o
+*.obj
+*.lo
+*.la
+*.al
+*.exe
+*.out
+*.app
+*.i
+*.ii
+*.gch
+
+# Arquivos de build e cache
+*.pch
+*.pdb
+*.idb
+*.ilk
+*.res
+*.ncb
+*.sdf
+*.opensdf
+*.tlog
+*.log
+
+# Pastas de build
+x64/
+x86/
+Debug/
+Release/
+build/
+bin/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Arquivo de teste do jogo (se for específico)
+*.test
+
+# Arquivos temporários e de backup
+*~
+*.swp
+*.tmp
+*.bak*

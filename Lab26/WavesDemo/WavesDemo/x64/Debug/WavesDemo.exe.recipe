@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\ProjetosProgramacao\ProgramacaoDeJogos\Lab26\WavesDemo\x64\Debug\WavesDemo.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\ProjetosProgramacao\ProgramacaoDeJogos\Lab26\WavesDemo\WavesDemo\Shaders\Pixel.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\ProjetosProgramacao\ProgramacaoDeJogos\Lab26\WavesDemo\WavesDemo\Shaders\Vertex.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

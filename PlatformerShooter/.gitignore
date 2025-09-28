@@ -1,0 +1,8 @@
+# Pasta gerada pelo VS Studio 
+.vs
+
+# Arquivo de teste do jogo
+x64/
+
+# Pasta de Shaders
+Shaders/

@@ -1,0 +1,27 @@
+// Informações dos inimigos:
+// lane (-1 para esquerda, 0 para meio e 1 para direita) offSetY type (0 para SEDAN, 1 para HATCH, 2 para SMALL_TRUCK, 3 para BIG_TRUCK)
+
+// sedan
+0	50	0
+0	150	0
+0	250	0
+1	50	0
+1	150	0
+1	250	0
+// hatch
+0	100	1
+0	200	1
+0	300	1
+1	100	1
+1	200	1
+1	300	1
+-1	100	1
+-1	200	1
+-1	300	1
+// small truck
+0	150	2
+-1	50	2
+-1	150	2
+// big truck
+0	100	3
+-1	100	3

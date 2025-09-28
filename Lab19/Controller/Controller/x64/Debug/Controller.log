@@ -1,0 +1,22 @@
+﻿  compilation object save succeeded; see C:\ProjetosProgramacao\ProgramacaoDeJogos\Lab19\Controller\Controller\Shaders\Pixel.cso
+  compilation object save succeeded; see C:\ProjetosProgramacao\ProgramacaoDeJogos\Lab19\Controller\Controller\Shaders\Vertex.cso
+  Animation.cpp
+  Audio.cpp
+  Engine.cpp
+  Font.cpp
+  Game.cpp
+  Geometry.cpp
+  Graphics.cpp
+  Image.cpp
+  Controller.cpp
+  Control.cpp
+  Object.cpp
+  Renderer.cpp
+  Scene.cpp
+  Sound.cpp
+  Sprite.cpp
+  Texture.cpp
+  TileSet.cpp
+  Timer.cpp
+  Window.cpp
+  Controller.vcxproj -> C:\ProjetosProgramacao\ProgramacaoDeJogos\Lab19\Controller\x64\Debug\Controller.exe

@@ -1,0 +1,21 @@
+﻿// Gravity Guy
+// Cria��o:        14 Fev 2013
+// Atualiza��o:    27 Set 2021
+// Descri��o:   Posi��o das plataformas do n�vel 3
+//
+//
+//  posX    posY
+    100     70
+    100    160
+    100    300
+    320    100
+    500    70
+    450    250
+    350    350
+    500    160
+    700    350
+    300    250
+    100    400
+    650    100
+    650    200
+    450    400

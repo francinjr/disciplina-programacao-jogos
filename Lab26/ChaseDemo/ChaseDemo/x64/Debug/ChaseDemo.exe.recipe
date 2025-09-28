@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\ProjetosProgramacao\ProgramacaoDeJogos\Lab26\ChaseDemo\x64\Debug\ChaseDemo.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\ProjetosProgramacao\ProgramacaoDeJogos\Lab26\ChaseDemo\ChaseDemo\Shaders\Pixel.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\ProjetosProgramacao\ProgramacaoDeJogos\Lab26\ChaseDemo\ChaseDemo\Shaders\Vertex.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

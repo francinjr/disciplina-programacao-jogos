@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\ProjetosProgramacao\ProgramacaoDeJogos\Lab21\Vector2D\x64\Debug\Vector2D.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\ProjetosProgramacao\ProgramacaoDeJogos\Lab21\Vector2D\Vector2D\Shaders\Pixel.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\ProjetosProgramacao\ProgramacaoDeJogos\Lab21\Vector2D\Vector2D\Shaders\Vertex.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

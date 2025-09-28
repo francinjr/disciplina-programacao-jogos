@@ -1,0 +1,31 @@
+﻿  compilation object save succeeded; see C:\ProjetosProgramacao\ProgramacaoDeJogos\Lab26\ChaseDemo\ChaseDemo\Shaders\Pixel.cso
+  compilation object save succeeded; see C:\ProjetosProgramacao\ProgramacaoDeJogos\Lab26\ChaseDemo\ChaseDemo\Shaders\Vertex.cso
+  Animation.cpp
+  Audio.cpp
+  Background.cpp
+  Controller.cpp
+  Engine.cpp
+  Font.cpp
+  Game.cpp
+  Geometry.cpp
+  Graphics.cpp
+  Hud.cpp
+  Image.cpp
+  Magenta.cpp
+  Missile.cpp
+  Object.cpp
+  Particles.cpp
+  Player.cpp
+  Renderer.cpp
+  Scene.cpp
+  Sound.cpp
+  Sprite.cpp
+  Texture.cpp
+  TileSet.cpp
+  Timer.cpp
+  Vector.cpp
+  WallHit.cpp
+  Wave.cpp
+  ChaseDemo.cpp
+  Window.cpp
+  ChaseDemo.vcxproj -> C:\ProjetosProgramacao\ProgramacaoDeJogos\Lab26\ChaseDemo\x64\Debug\ChaseDemo.exe

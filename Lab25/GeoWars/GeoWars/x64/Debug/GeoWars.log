@@ -1,0 +1,34 @@
+﻿  compilation object save succeeded; see C:\ProjetosProgramacao\ProgramacaoDeJogos\Lab25\GeoWars\GeoWars\Shaders\Pixel.cso
+  compilation object save succeeded; see C:\ProjetosProgramacao\ProgramacaoDeJogos\Lab25\GeoWars\GeoWars\Shaders\Vertex.cso
+  Animation.cpp
+  Audio.cpp
+  Background.cpp
+  Blue.cpp
+  Controller.cpp
+  Delay.cpp
+  Engine.cpp
+  Font.cpp
+  Game.cpp
+  Geometry.cpp
+  GeoWars.cpp
+  Graphics.cpp
+  Green.cpp
+  Hud.cpp
+  Image.cpp
+  Magenta.cpp
+  Missile.cpp
+  Object.cpp
+  Orange.cpp
+  Particles.cpp
+  Player.cpp
+  Renderer.cpp
+  Scene.cpp
+  Sound.cpp
+  Sprite.cpp
+  Texture.cpp
+  TileSet.cpp
+  Timer.cpp
+  Vector.cpp
+  WallHit.cpp
+  Window.cpp
+  GeoWars.vcxproj -> C:\ProjetosProgramacao\ProgramacaoDeJogos\Lab25\GeoWars\x64\Debug\GeoWars.exe

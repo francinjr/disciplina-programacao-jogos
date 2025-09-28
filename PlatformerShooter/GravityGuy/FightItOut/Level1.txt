@@ -1,0 +1,16 @@
+// Gravity Guy
+// Criação:        14 Fev 2013
+// Atualização:    27 Set 2021
+// Descrição:   Posição das plataformas do nível 1
+//
+//
+//  posX    posY
+    100     70
+    180     160
+    180     280
+
+    400     340
+
+    640     280
+    640     160
+    700     70

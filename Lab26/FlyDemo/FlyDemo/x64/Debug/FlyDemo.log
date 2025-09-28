@@ -1,0 +1,28 @@
+﻿  compilation object save succeeded; see C:\ProjetosProgramacao\ProgramacaoDeJogos\Lab26\FlyDemo\FlyDemo\Shaders\Pixel.cso
+  compilation object save succeeded; see C:\ProjetosProgramacao\ProgramacaoDeJogos\Lab26\FlyDemo\FlyDemo\Shaders\Vertex.cso
+  Animation.cpp
+  Audio.cpp
+  Background.cpp
+  Controller.cpp
+  Engine.cpp
+  Fly.cpp
+  FlyDemo.cpp
+  Font.cpp
+  Game.cpp
+  Geometry.cpp
+  Graphics.cpp
+  Image.cpp
+  Mouse.cpp
+  Object.cpp
+  Particles.cpp
+  Renderer.cpp
+  Scene.cpp
+  Sound.cpp
+  Sprite.cpp
+  Texture.cpp
+  TileSet.cpp
+  Timer.cpp
+  TrashCan.cpp
+  Vector.cpp
+  Window.cpp
+  FlyDemo.vcxproj -> C:\ProjetosProgramacao\ProgramacaoDeJogos\Lab26\FlyDemo\x64\Debug\FlyDemo.exe

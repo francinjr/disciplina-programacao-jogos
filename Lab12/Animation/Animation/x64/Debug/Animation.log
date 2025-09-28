@@ -1,0 +1,18 @@
+﻿  compilation object save succeeded; see C:\ProjetosProgramacao\ProgramacaoDeJogos\Lab12\Animation\Animation\Shaders\Pixel.cso
+  compilation object save succeeded; see C:\ProjetosProgramacao\ProgramacaoDeJogos\Lab12\Animation\Animation\Shaders\Vertex.cso
+  Anima.cpp
+  Animation.cpp
+  Engine.cpp
+  Game.cpp
+  Geometry.cpp
+  Graphics.cpp
+  Image.cpp
+  Object.cpp
+  Renderer.cpp
+  Scene.cpp
+  Sprite.cpp
+  Texture.cpp
+  TileSet.cpp
+  Timer.cpp
+  Window.cpp
+  Animation.vcxproj -> C:\ProjetosProgramacao\ProgramacaoDeJogos\Lab12\Animation\x64\Debug\Animation.exe

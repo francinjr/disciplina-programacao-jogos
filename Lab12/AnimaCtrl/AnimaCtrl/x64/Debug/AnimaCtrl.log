@@ -1,0 +1,18 @@
+﻿  compilation object save succeeded; see C:\ProjetosProgramacao\ProgramacaoDeJogos\Lab12\AnimaCtrl\AnimaCtrl\Shaders\Pixel.cso
+  compilation object save succeeded; see C:\ProjetosProgramacao\ProgramacaoDeJogos\Lab12\AnimaCtrl\AnimaCtrl\Shaders\Vertex.cso
+  AnimaCtrl.cpp
+  Animation.cpp
+  Engine.cpp
+  Game.cpp
+  Geometry.cpp
+  Graphics.cpp
+  Image.cpp
+  Object.cpp
+  Renderer.cpp
+  Scene.cpp
+  Sprite.cpp
+  Texture.cpp
+  TileSet.cpp
+  Timer.cpp
+  Window.cpp
+  AnimaCtrl.vcxproj -> C:\ProjetosProgramacao\ProgramacaoDeJogos\Lab12\AnimaCtrl\x64\Debug\AnimaCtrl.exe
